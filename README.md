@@ -1,14 +1,10 @@
 # Cafeterias-Quito-Sistema-Automatizado-de-Monitoreo-de-Resenias
 
-Aquí tienes el **README.md listo**, tal como debe ir en GitHub, **incluyendo instrucciones exactas para poner tus imágenes**.
-
-Lo puedes copiar y pegar **tal cual** en tu archivo `README.md`.
-
 ---
 
 # 📊 Cafeterías Quito – Sistema Automatizado de Monitoreo de Reseñas
 
-Este proyecto implementa un flujo automatizado para extraer reseñas de cafeterías desde Google Maps usando Apify, almacenarlas en Supabase, visualizarlas en Looker Studio y enviar alertas automáticas por Slack cuando se detecten reseñas negativas.
+Este proyecto implementa un flujo automatizado para extraer reseñas de cafeterías desde Google Maps usando Apify, almacenarlas en Supabase, visualizarlas en Looker Studio y enviar alertas automáticas por Slack cuando se detecten reseñas negativas. (MESSI)
 
 ---
 
