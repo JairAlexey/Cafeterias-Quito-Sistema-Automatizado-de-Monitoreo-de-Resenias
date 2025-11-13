@@ -1,6 +1,3 @@
-# Cafeterias-Quito-Sistema-Automatizado-de-Monitoreo-de-Resenias
-
----
 
 # 📊 Cafeterías Quito – Sistema Automatizado de Monitoreo de Reseñas
 
