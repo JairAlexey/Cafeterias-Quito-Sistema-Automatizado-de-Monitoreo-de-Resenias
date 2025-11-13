@@ -143,6 +143,7 @@ https://lookerstudio.google.com/XXXX
 ![Promedio de estrellas](Screenshot%202025-11-12%20194636.png)
 ![Reseñas negativas](Screenshot%202025-11-12%20194657.png)
 
+* Link del dashboard en Looker Studio: https://lookerstudio.google.com/s/gRaA_CZ9T5I
 
 ## 🛠 Requisitos
 
