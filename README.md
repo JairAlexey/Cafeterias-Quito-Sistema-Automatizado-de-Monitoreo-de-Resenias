@@ -138,6 +138,12 @@ https://lookerstudio.google.com/XXXX
 
 * Link del dashboard en Looker Studio: https://lookerstudio.google.com/s/gRaA_CZ9T5I
 
+## 📊 Mensaje en Slack para ver el dashboard
+![Mensaje de slack - dashboard](Screenshot%202025-11-12%20202833.png)
+
+## ⭐ Mensaje en Slack de las reseñas de 1 estrella
+![Mensaje de slack - dashboard](Screenshot%202025-11-12%20202903.png)
+
 ## 🛠 Requisitos
 
 * Cuenta Apify
